@@ -1,4 +1,4 @@
-# Naive_Bayes
+# Naive_Bayes_Classifier
 Implemented the effective machine learning technique, Naive Bayes classification, for spam detection.
 
 The Bayesian Classification represents a supervised learning method as well as a statistical
